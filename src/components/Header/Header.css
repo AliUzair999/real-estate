@@ -1,0 +1,14 @@
+.n-button {
+    padding: 5px 10px;
+}
+
+
+.nav.active{
+    background-color: white;
+    color: black;
+}
+
+.grayBg {
+    background-color: rgb(241 241 241);
+    color: black;
+}
